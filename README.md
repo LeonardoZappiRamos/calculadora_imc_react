@@ -1,4 +1,4 @@
-# Project Title
+# Simple React App = IMC Calculator
 
 ## Table of Contents
 
